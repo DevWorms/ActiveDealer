@@ -1,0 +1,17 @@
+
+/* ===== Estilos para vistas evaluador ===== */
+
+
+.menu-evaluador
+{
+    background-color: #f0f0f0;
+    border: solid 1px #A1A1A1;
+    border-radius: 10px;
+
+    padding: 20px 0 50px 0;
+}
+
+.grupo-botones-inline
+{
+    margin-top: 50px;
+}

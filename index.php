@@ -44,7 +44,7 @@
                     </div>
                     <div class="form-group">
                         <h4 class="form-group-title">Contraseña</h4>
-                        <input type="text" id="userPassword" class="form-control"/>
+                        <input type="password" id="userPassword" class="form-control"/>
                     </div>
                     </br>
                     
