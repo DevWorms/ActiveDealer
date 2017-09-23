@@ -5,7 +5,7 @@
 
   <!-- Contenido -->
 
-  <div class="container main-container">
+	<div class="container main-container">
 	  <div class="row encabezado-seccion" align="center">
 	  	<h2>Resumen Usuario</h2>
 	  </div>
