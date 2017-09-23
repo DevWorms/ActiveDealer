@@ -10,12 +10,12 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="css/bootstrap.css">
-        <link rel="stylesheet" href="css/bootstrap-social.css" >
-			  <link rel="stylesheet" href="css/font-awesome.min.css">
-			  <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="../../css/bootstrap.css">
+        <link rel="stylesheet" href="../../css/bootstrap-social.css" >
+			  <link rel="stylesheet" href="../../css/font-awesome.min.css">
+			  <link rel="stylesheet" href="../../css/animate.css">
 
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="../../css/main.css">
 
         <!--[if lt IE 9]>
             <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>

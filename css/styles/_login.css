@@ -1,0 +1,29 @@
+
+/* ===== Estilos para Login ===== */
+
+.login-main
+{
+    margin: 80px 0;
+}
+
+.login-encabezado
+{
+    font-weight: bold;
+
+    margin-bottom: 20px;
+
+    color: #858585;
+}
+
+.login-form
+{
+    padding: 20px 80px;
+
+    border: solid 1px #A1A1A1;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+}
+
+.form-group-title {
+	color: #838383;
+}

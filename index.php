@@ -1,120 +1,87 @@
-<?php
-    include dirname(__FILE__) . '/controladores/layouts/header.php';
-    include dirname(__FILE__) . '/controladores/layouts/navbar.php';
-?>
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- Contenido -->
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/bootstrap-social.css" >
+			  <link rel="stylesheet" href="css/font-awesome.min.css">
+			  <link rel="stylesheet" href="css/animate.css">
 
-  <div class="container main-container">
-	  <div class="row encabezado-seccion" align="center">
-	  	<h2>Resumen Usuario</h2>
-	  </div>
-	  
-	  <ul class="nav nav-tabs">
-	    <li class="active"><a data-toggle="tab" href="#home">Resumen</a></li>
-	    <li><a data-toggle="tab" href="#menu1">Gráficos</a></li>
-	  </ul>
+        <link rel="stylesheet" href="css/main.css">
 
-	  <div class="tab-content">
-	    <div id="home" class="tab-pane fade in active">
-	      <div class="row" align="center">
-  				<h3 class="encabezado-tab">Resumen</h3>
-	      </div>
-	      	      
-	      <table class="table table-striped">
-			    <thead>
-			      <tr>
-			        <th>Sección</th>
-			        <th>Criterios</th>
-			        <th>Preguntas</th>
-			        <th>Resultado</th>
-			        <th># Preguntas</th>
-			        <th>Obligatoria vs No Obligatoria</th>
-			      </tr>
-			    </thead>
-			    <tbody>
-			      <tr>
-			        <td>Total de activos</td>
-			        <td>96</td>
-			        <td>43</td>
-			        <td></td>
-			        <td>25</td>
-			        <td>36 No Obligatoria</td>
-			      </tr>
-			      <tr>
-			        <td>% Avance Activos</td>
-			        <td>91%</td>
-			        <td>93%</td>
-			        <td></td>
-			        <td>83</td>
-			        <td>103 No Obligatoria</td>
-			      </tr>
-			      <tr>
-			        <td>Total de Operaciones</td>
-			        <td>121</td>
-			        <td>56</td>
-			        <td></td>
-			        <td>108</td>
-			        <td>139 Total</td>
-			      </tr>
-			      <tr>
-			        <td>% Avance de Operaciones</td>
-			        <td>83%</td>
-			        <td>75%</td>
-			        <td></td>
-			        <td></td>
-			        <td></td>
-			      </tr>
-			      <tr>
-			        <td>Total de Personal</td>
-			        <td>24</td>
-			        <td>9</td>
-			        <td></td>
-			        <td></td>
-			        <td></td>
-			      </tr>
-			      <tr>
-			        <td>% Avance de Personal</td>
-			        <td>69%</td>
-			        <td>50%</td>
-			        <td></td>
-			        <td></td>
-			        <td></td>
-			      </tr>
-			      <tr>
-			        <td>Total General</td>
-			        <td>241</td>
-			        <td>108</td>
-			        <td></td>
-			        <td></td>
-			        <td></td>
-			      </tr>
-			      <tr>
-			        <td>% Avance General</td>
-			        <td>84.6%</td>
-			        <td>77.7%</td>
-			        <td></td>
-			        <td></td>
-			        <td></td>
-			      </tr>
-			    </tbody>
-			  </table>
-	    </div>
+        <!--[if lt IE 9]>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+            <script>window.html5 || document.write('<script src="js/vendor/html5shiv.js"><\/script>')</script>
+        <![endif]-->
+    </head>
 
-	    <div id="menu1" class="tab-pane fade">
-	      <div class="row" align="center">
-  				<h3 class="encabezado-tab">Gráficas de Avance</h3>
-	      </div>
-				<div class="container">
-	      	<div id="chartContainer"></div>
-	      </div>
-	  </div>
-	</div>
-	
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    
+    <div class="conatiner login-main" align="center">
+        <div class="container">
+            <div class="row">
+                <h1 class="login-encabezado">Kodawari</h1>
+            </div>
+        </div>
 
-  <!-- Fin contenido -->
+        <div class="container">
+            <div class="login-form col-md-offset-3 col-md-6">
+                <form>
+                    <div class="form-group">
+                        <h4 class="form-group-title">Usuario</h4>
+                        <input type="text" id="userName" class="form-control"/>
+                    </div>
+                    <div class="form-group">
+                        <h4 class="form-group-title">Contraseña</h4>
+                        <input type="text" id="userPassword" class="form-control"/>
+                    </div>
+                    </br>
+                    
+                    <div class="row">
+                        <div class="col-md-offset-2 col-md-4">     
+                            <button type="submit" class="btn btn-default btn-block">Evaluador</button>
+                        </div>
+                        <div class="col-md-4">     
+                            <button type="submit" class="btn btn-default btn-block">Usuario</button>
+                        </div>
+                    </div>
+                </form>
+                
+                <br>
+                <a href="#">forgot password?</a>
+            </div>
+        </div>
 
-<?php
-    include dirname(__FILE__) . '/controladores/layouts/footer.php';
-?>
-	
+    </div>
+
+
+
+    <!-- Footer -->
+    <div class="container" align="center">
+        <footer>
+          <p class="footer-company">&copy; Devworms 2017</p>
+        </footer>
+    </div>
+  <!-- /Fin footer -->        
+
+    <script src="js/vendor/jquery-1.11.2.js"></script>
+    <script src="js/vendor/bootstrap.min.js"></script>
+    <script src="js/vendor/wow.min.js"></script>
+
+    <script src="js/main.js"></script>
+
+    </script>
+
+    </body>
+</html>
