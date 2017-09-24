@@ -21,7 +21,7 @@
 						<div class="form-group">
 					      	<label for="fecha-hallazgo">Fecha de Hallazgo</label>
 							<div class="input-group">
-								<input type="text" class="search-query form-control" id="fecha-hallazgo" name="fecha-hallazgo" placeholder="aaaa / mm / dd" required="">
+								<input type="text" class="search-query form-control" id="fecha-hallazgo" name="fecha-hallazgo" placeholder="aaaa / mm / dd" required>
 								<span class="input-group-btn">
 								<button class="btn btn-primary" type="button">
 								    <i class="fa fa-calendar" aria-hidden="true"></i>
@@ -46,7 +46,7 @@
 						<div class="form-group">
 							<label for="fecha-implementacion">Fecha de Implementación</label>
 							<div class="input-group">
-								<input type="text" class="search-query form-control" id="fecha-implementacion" name="fecha-implementacion" placeholder="aaaa / mm / dd" required="">
+								<input type="text" class="search-query form-control" id="fecha-implementacion" name="fecha-implementacion" placeholder="aaaa / mm / dd" required>
 								<span class="input-group-btn">
 								<button class="btn btn-primary" type="button">
 								    <i class="fa fa-calendar" aria-hidden="true"></i>
@@ -86,7 +86,7 @@
 						<div class="form-group">
 							<label for="fecha-revision">Fecha de revisión</label>
 							<div class="input-group">
-								<input type="text" class="search-query form-control" id="fecha-revision" name="fecha-revision" placeholder="aaaa / mm / dd" required="">
+								<input type="text" class="search-query form-control" id="fecha-revision" name="fecha-revision" placeholder="aaaa / mm / dd" required>
 								<span class="input-group-btn">
 								<button class="btn btn-primary" type="button">
 								    <i class="fa fa-calendar" aria-hidden="true"></i>

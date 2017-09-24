@@ -57,3 +57,10 @@ td a:hover
     border-radius: 10px;
     background-color: #f3f3f3;
 }
+
+
+.planes-content
+{
+    margin-top: 20px;
+    padding-left: 40px;
+}
