@@ -17,22 +17,22 @@
 					<tbody>
 						<tr>
 							<td>
-								<a href="" class="see-user">Pablo Loyola - Citas de Servicio <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+								<a href="ver-resultados-usuario.php" class="see-user"><span class="user-highlight">Pablo Loyola</span> - Citas de Servicio <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 							</td>
 						</tr>
 						<tr>
 							<td>
-								<a href="" class="see-user">Carlos Alberto - Jefe de Taller <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+								<a href="ver-resultados-usuario.php" class="see-user"><span class="user-highlight">Carlos Alberto</span> - Jefe de Taller <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 							</td>
 						</tr>
 						<tr>
 							<td>
-								<a href="" class="see-user">Gabriel Fuentes - Gerente de Servicio <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+								<a href="ver-resultados-usuario.php" class="see-user"><span class="user-highlight">Gabriel Fuentes</span> - Gerente de Servicio <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 							</td>
 						</tr>
 						<tr>
 							<td>
-								<a href="" class="see-user">Nuevo Usuario <i class="glyphicon glyphicon-plus-sign icon-option"></i></a>
+								<a href="ver-resultados-usuario.php" class="see-user">Nuevo Usuario <i class="glyphicon glyphicon-plus-sign icon-option"></i></a>
 							</td>
 						</tr>
 					</tbody>

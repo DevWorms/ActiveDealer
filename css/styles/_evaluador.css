@@ -4,11 +4,11 @@
 
 .menu-evaluador
 {
-    background-color: #f0f0f0;
-    border: solid 1px #A1A1A1;
-    border-radius: 10px;
-
     padding: 20px 0 50px 0;
+
+    border: solid 1px #a1a1a1;
+    border-radius: 10px;
+    background-color: #f0f0f0;
 }
 
 .grupo-botones-inline
@@ -16,13 +16,23 @@
     margin-top: 50px;
 }
 
-td a {
-	margin-left: 20px;
-	text-decoration: none;
-	color: #6d6d6d;
+td a
+{
+    margin-left: 20px;
+
+    text-decoration: none;
+
+    color: #6d6d6d;
 }
 
-td a:hover {
-	text-decoration: none;
-	color: #6d6d6d;
+td a:hover
+{
+    text-decoration: none;
+
+    color: #6d6d6d;
+}
+
+.user-highlight
+{
+    font-weight: bold;
 }
