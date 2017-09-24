@@ -7,7 +7,11 @@
 
 	<div class="container main-container">
 		<div class="row encabezado-seccion" align="center">
-			<h2>Selecciona un usuario</h2>
+			<h2>Ver resultados</h2>
+		</div>
+
+		<div class="row encabezado2-seccion" align="center">
+			<h4>Selecciona un usuario</h4>
 		</div>
 
 		

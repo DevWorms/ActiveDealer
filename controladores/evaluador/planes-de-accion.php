@@ -10,8 +10,8 @@
 			<h2>Planes de acción</h2>
 		</div>
 
-		<div class="row encabezado-seccion" align="center">
-			<h2>Seleciona tema</h2>
+		<div class="row encabezado2-seccion" align="center">
+			<h4>Seleciona tema</h4>
 		</div>
 
 		
