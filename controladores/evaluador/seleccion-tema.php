@@ -26,7 +26,7 @@
 						</tr>
 						<tr>
 							<td>
-								<a href="" class="see-user">Activos - AC (30 preguntas) <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+								<a data-toggle="modal" data-target="#myModal" href="" class="see-user">Activos - AC (30 preguntas) <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 							</td>
 						</tr>
 					</tbody>
@@ -54,8 +54,19 @@
 				</div>
 	        </div>
 
-	        <div class="modal-footer">
-        		<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+	        <div class="modal-footer modal_textp">
+	        	<div class="container">
+	        		<div class="row">
+	        			<div class="col-md-3">
+	        				<button type="button" class="btn btn-primary boton_adver" data-dismiss="modal">No</button>
+	        			</div>
+	        			<div class="col-md-3">
+	        				<button type="button" class="btn btn-primary boton_adver">Sí</button>
+	        			</div>
+	        		</div>
+	        	</div>
+        		
+        		
       		</div>
 
 	      </div>
