@@ -66,93 +66,109 @@ td a:hover
 }
 
 /* Estilos modal para crear uusario */
-.modal_textp{
+.modal_textp
+{
     text-align: center;
 }
 
-.modal_nivel_tipo{
+.modal_nivel_tipo
+{
     margin-top: 3px;
 }
 
-.modal_boton_crear{
+.modal_boton_crear
+{
     margin-left: 16px;
 }
 
-.modal_boton_altura{
+.modal_boton_altura
+{
     margin-top: 46px;
 }
 
 /* Posisicón de los botones del modal de crear nuevo usuurio*/
-@media screen and (max-width: 991px) {
-    div#res_Lap{
+@media screen and (max-width: 991px)
+{
+    div#res_Lap
+    {
         display: none;
     }
 }
 
-@media screen and (min-width: 990px){
-    div#res_Tab{
+@media screen and (min-width: 990px)
+{
+    div#res_Tab
+    {
         display: none;
     }
 }
 
-div#div_file{
+div#div_file
+{
     position: relative;
-    padding:10px;
-    background-color: #337ab7;
-    -webkit-border-radius:5px;
-    -o-border-radius:5px;
-    -moz-border-radius:5px;
-    -ms-border-radius:5px;
-    -webkit-box-shadow:0px 3px 0px #1a71a9;
 
-    margin-top: 43px;
     height: 35px;
+    margin-top: 43px;
     margin-left: 14px;
+    padding: 10px;
+
+    -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+    background-color: #337ab7;
+
+         -o-border-radius: 5px;
+        -ms-border-radius: 5px;
 }
 
-input#foto_newUser{
+input#foto_newUser
+{
     position: absolute;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    bottom: 0px;
-    width: 100%;
-    height: 100%; 
-    opacity: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
 
+    width: 100%;
+    height: 100%;
+
+    opacity: 0;
 }
 
-p#text_foto{
+p#text_foto
+{
     text-align: center;
+
     color: white;
 }
 
-input#foto_newUserDos{
+input#foto_newUserDos
+{
     position: absolute;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    bottom: 0px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
     width: 100%;
-    height: 100%; 
+    height: 100%;
+
     opacity: 0;
 }
 
-div#div_fileDos{
+div#div_fileDos
+{
     position: relative;
-    padding:10px;
-    background-color: #337ab7;
-    -webkit-border-radius:5px;
-    -o-border-radius:5px;
-    -moz-border-radius:5px;
-    -ms-border-radius:5px;
-    -webkit-box-shadow:0px 3px 0px #1a71a9;
 
-    margin-left: 39%;
     width: 21%;
     margin-right: 40%;
+    margin-left: 39%;
+    padding: 10px;
+
+    -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+    background-color: #337ab7;
+    -webkit-box-shadow: 0 3px 0 #1a71a9;
+
+         -o-border-radius: 5px;
+        -ms-border-radius: 5px;
 }
-
-
-
-    
