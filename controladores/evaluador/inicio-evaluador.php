@@ -7,7 +7,7 @@
 
 	<div class="container main-container">
 
-		<div class="row encabezado-seccion" align="center">
+		<div class="container encabezado-seccion" align="center">
 			<h2>¡Bienvenido @usuario!</h2>
 		</div>
 		  
@@ -28,7 +28,7 @@
 		  			<a href="add-planes-b.php" class="btn btn-lg btn-default btn-block">Añadir Plan de Acción</a>
 		  		</div>
 		  		<div class="col-md-3">
-		  			<a href="#" class="btn btn-lg btn-default btn-block">Planes de Acción</a>
+		  			<a href="planes-accion-b.php" class="btn btn-lg btn-default btn-block">Planes de Acción</a>
 		  		</div>
 		  	</div>
 		  	
