@@ -13,7 +13,7 @@
         <br/>
 
         <div class="row" align="center">
-			<div class="col-md-offset-4 col-md-4">
+			<div class="col-sm-offset-3 col-sm-6 col-md-offset-4 col-md-4">
                 <a href="#" class="btn btn-lg btn-default btn-block">Herramientas</a>
                 <br><br>
                 <a href="#" class="btn btn-lg btn-default btn-block" data-toggle="modal" data-target="#myModal">Documentos</a>

@@ -106,10 +106,10 @@
 							<textarea class="form-control" rows="5" id="observaciones" name="observaciones"></textarea>
 					    </div>
 					</div>
-					<div class="col-md-offset-2 col-md-2">
+					<div class="col-sm-6 col-md-offset-2 col-md-2">
 						<button class="btn btn-default btn-block btn-pregunta"><i class="fa fa-camera" aria-hidden="true"></i>Añadir Evidencia</button>
 					</div>
-					<div class="col-md-offset-1 col-md-2">
+					<div class="col-sm-6 col-md-offset-1 col-md-2">
 						<button class="btn btn-default btn-block btn-pregunta">Añadir Plan</button>
 					</div>
 				</div>

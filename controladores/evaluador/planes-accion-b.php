@@ -24,28 +24,28 @@
             <div class="tab-content tab-content2">
                 <div id="home" class="tab-pane fade in active planes-content">
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-sm-3">
                             <div class="form-group">
                                 <label>Fecha de Hallazgo</label>
                                 <p>23/09/2017</p>
                             </div>
                         </div>
 
-                        <div class="col-md-3">
+                        <div class="col-sm-3">
                             <div class="form-group">
                                 <label>Condición Detectada</label>
                                 <p>Lorem ipsum dolor sit amet</p>
                             </div>
                         </div>
 
-                        <div class="col-md-3">
+                        <div class="col-sm-3">
                             <div class="form-group">
                                 <label>Acción a Implementar</label>
                                 <p>Lorem ipsum dolor sit amet</p>
                             </div>
                         </div>
 
-                        <div class="col-md-3">
+                        <div class="col-sm-3">
                             <div class="form-group">
                                 <label>Fecha de Implementación</label>
                                 <p>23/09/2017</p>
@@ -55,28 +55,28 @@
                     <br>
                     
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-sm-3">
                             <div class="form-group">
                                 <label>Impacto</label>
                                 <p>Lorem ipsum dolor sit amet</p>
                             </div>
                         </div>
 
-                        <div class="col-md-3">
+                        <div class="col-sm-3">
                             <div class="form-group">
                                 <label>Costo</label>
                                 <p>$ 30,000</p>
                             </div>
                         </div>
 
-                        <div class="col-md-3">
+                        <div class="col-sm-3">
                             <div class="form-group">
                                 <label>Responsable</label>
                                 <p>Juan Pérez</p>
                             </div>
                         </div>
 
-                        <div class="col-md-3">
+                        <div class="col-sm-3">
                             <div class="form-group">
                                 <label>Fecha de revisión</label>
                                 <p>23/09/2017</p>
@@ -86,7 +86,7 @@
                     <br>
 
                     <div class="row">
-                        <div class="col-md-9" align="justify">
+                        <div class="col-sm-12 col-md-9" align="justify">
                             <div class="form-group">
                                 <label>Observaciones</label>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium eos officia maxime numquam soluta, sint, hic ipsa excepturi ipsam eum, tenetur magni facilis repudiandae voluptatibus voluptatum neque optio possimus error fugit sunt ipsum aliquam? <br>
@@ -98,28 +98,28 @@
 
                 <div id="menu1" class="tab-pane fade planes-content">
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-sm-3">
                             <div class="form-group">
                                 <label>Total de Personal</label>
                                 <p>300</p>
                             </div>
                         </div>
 
-                        <div class="col-md-3">
+                        <div class="col-sm-3">
                             <div class="form-group">
                                 <label>Total General</label>
                                 <p>700</p>
                             </div>
                         </div>
 
-                        <div class="col-md-3">
+                        <div class="col-sm-3">
                             <div class="form-group">
                                 <label>% de Avance</label>
                                 <p>60</p>
                             </div>
                         </div>
 
-                        <div class="col-md-3">
+                        <div class="col-sm-3">
                             <div class="form-group">
                                 <label>Usuarios erróneos</label>
                                 <p>20</p>
@@ -129,28 +129,28 @@
                     <br>
                     
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-sm-3">
                             <div class="form-group">
                                 <label>Usuario Acertados</label>
                                 <p>120</p>
                             </div>
                         </div>
 
-                        <div class="col-md-3">
+                        <div class="col-sm-3">
                             <div class="form-group">
                                 <label>Rango</label>
                                 <p>10 - 100</p>
                             </div>
                         </div>
 
-                        <div class="col-md-3">
+                        <div class="col-sm-3">
                             <div class="form-group">
                                 <label>KPA 1</label>
                                 <p>30</p>
                             </div>
                         </div>
 
-                        <div class="col-md-3">
+                        <div class="col-sm-3">
                             <div class="form-group">
                                 <label>KPA 2</label>
                                 <p>40</p>

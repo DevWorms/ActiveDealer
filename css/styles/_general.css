@@ -71,6 +71,17 @@ h4
     height: 400px;
 }
 
+/* Tabla Responsive */
+
+@media screen and (max-width: 800px)
+{
+    .tab-content,
+    .tab-content2
+    {
+        font-size: 12px;
+    }
+}
+
 .encabezado-tab
 {
     margin-bottom: 40px;

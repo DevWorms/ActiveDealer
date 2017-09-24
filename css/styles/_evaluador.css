@@ -66,10 +66,11 @@ td a:hover
 }
 
 /*Botones Advertencia*/
-.boton_adver{
-    width: 100%;
+.boton_adver
+{
     font-size: 27px;
 
+    width: 100%;
 }
 
 /* Estilos modal para crear uusario */
@@ -167,9 +168,8 @@ div#div_fileDos
     position: relative;
 
     width: 21%;
-    margin-right: 40%;
     height: 37px;
-}
+    margin-right: 40%;
 
     -webkit-border-radius: 5px;
        -moz-border-radius: 5px;
@@ -179,5 +179,3 @@ div#div_fileDos
          -o-border-radius: 5px;
         -ms-border-radius: 5px;
 }
-
-

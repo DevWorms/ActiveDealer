@@ -15,19 +15,19 @@
 		  	<h3>¿Qué desea realizar?</h3>
 
 		  	<div class="row grupo-botones-inline">
-		  		<div class="col-md-offset-3 col-md-3">
+		  		<div class="col-sm-offset-1 col-sm-5 col-md-offset-3 col-md-3">
 		  			<a href="#" class="btn btn-lg btn-default btn-block">Nueva Prueba</a>
 		  		</div>
-		  		<div class="col-md-3">
+		  		<div class="col-sm-5 col-md-3">
 		  			<a href="ver-resultados.php" class="btn btn-lg btn-default btn-block">Ver resultados por Usuario</a>
 		  		</div>
 		  	</div>
 			
 		  	<div class="row grupo-botones-inline">
-		  		<div class="col-md-offset-3 col-md-3">
+		  		<div class="col-sm-offset-1 col-sm-5 col-md-offset-3 col-md-3">
 		  			<a href="add-planes-b.php" class="btn btn-lg btn-default btn-block">Añadir Plan de Acción</a>
 		  		</div>
-		  		<div class="col-md-3">
+		  		<div class="col-sm-5 col-md-3">
 		  			<a href="planes-accion-b.php" class="btn btn-lg btn-default btn-block">Planes de Acción</a>
 		  		</div>
 		  	</div>
