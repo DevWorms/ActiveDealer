@@ -7,11 +7,11 @@
 
 	<div class="container main-container">
 		<div class="row encabezado-seccion" align="center">
-			<h2>Planes de acción</h2>
+			<h2>Añadir Plan de Acción</h2>
 		</div>
 
 		<div class="row encabezado2-seccion" align="center">
-			<h4>Seleciona tema</h4>
+			<h4>Seleciona un tema</h4>
 		</div>
 
 		
