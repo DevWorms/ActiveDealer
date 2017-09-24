@@ -8,7 +8,7 @@
 	<div class="container main-container">
 
 		<div class="container encabezado-seccion" align="center">
-			AC-1 <i class="fa fa-caret-right" aria-hidden="true"></i> Herramientas especiales
+			<h4>AC-1 <i class="fa fa-caret-right" aria-hidden="true"></i> Herramientas especiales</h4>
 		</div>
 		  
 		<div class="container menu-evaluador preguntas_bloque_info" align="center">
@@ -20,7 +20,7 @@
 		  			<div id="bloque_dat_gen_991Min">
 		  				
 		  				<div class="col-md-4 preguntas_bloqueInfor_foto">
-			  				<img src="imagesPrueba/photoInfantil.jpg" class="preguntas">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Persona: Carlos Alberto - Jefe de Taller
+			  				<img src="../../img/imagesPrueba/photoInfantil.jpg" class="preguntas">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Persona: Carlos Alberto - Jefe de Taller
 			  			</div>
 
 			  			<div class="col-md-4 preguntas_bloqueLetras">
@@ -41,7 +41,7 @@
 
 		  						<tr>
 
-								    <th class="modal_textp"><img src="imagesPrueba/photoInfantil.jpg" class="preguntas"></th>
+								    <th class="modal_textp"><img src="../../img/imagesPrueba/photoInfantil.jpg" class="preguntas"></th>
 
 								    <th class="bloque_datos_foto_991">
 								    	Persona: Carlos Alberto - Jefe de Taller<br>
@@ -144,7 +144,7 @@
 
 						<div class="col-md-6">
 
-							<img class="bloque_preguntando_margenesFoto" src="imagesPrueba/ejemploImagen.png">
+							<img class="bloque_preguntando_margenesFoto" src="../../img/imagesPrueba/ejemploImagen.png">
 
 						</div>
 

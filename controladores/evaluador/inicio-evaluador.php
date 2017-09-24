@@ -16,7 +16,7 @@
 
 		  	<div class="row grupo-botones-inline">
 		  		<div class="col-sm-offset-1 col-sm-5 col-md-offset-3 col-md-3">
-		  			<a href="#" class="btn btn-lg btn-default btn-block">Nueva Prueba</a>
+		  			<a href="nueva-prueba.php" class="btn btn-lg btn-default btn-block">Nueva Prueba</a>
 		  		</div>
 		  		<div class="col-sm-5 col-md-3">
 		  			<a href="ver-resultados.php" class="btn btn-lg btn-default btn-block">Ver resultados por Usuario</a>

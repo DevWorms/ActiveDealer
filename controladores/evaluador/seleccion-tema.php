@@ -54,19 +54,15 @@
 				</div>
 	        </div>
 
-	        <div class="modal-footer modal_textp">
-	        	<div class="container">
-	        		<div class="row">
-	        			<div class="col-md-3">
-	        				<button type="button" class="btn btn-primary boton_adver" data-dismiss="modal">No</button>
-	        			</div>
-	        			<div class="col-md-3">
-	        				<a href="evaluador-pregunta.php"><button type="button" class="btn btn-primary boton_adver">Sí</button></a>
-	        			</div>
-	        		</div>
-	        	</div>
-        		
-        		
+	        <div class="modal-footer modal_textp">	
+        		<div class="row">
+        			<div class="col-xs-6">
+        				<button type="button" class="btn btn-primary btn-lg btn-block" data-dismiss="modal">No</button>
+        			</div>
+        			<div class="col-xs-6">
+        				<a href="evaluador-pregunta.php"><button type="button" class="btn btn-primary btn-lg btn-block">Sí</button></a>
+        			</div>
+        		</div>	
       		</div>
 
 	      </div>
