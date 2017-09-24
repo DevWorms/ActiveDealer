@@ -61,7 +61,7 @@
 	        				<button type="button" class="btn btn-primary boton_adver" data-dismiss="modal">No</button>
 	        			</div>
 	        			<div class="col-md-3">
-	        				<button type="button" class="btn btn-primary boton_adver">Sí</button>
+	        				<a href="evaluador-pregunta.php"><button type="button" class="btn btn-primary boton_adver">Sí</button></a>
 	        			</div>
 	        		</div>
 	        	</div>
