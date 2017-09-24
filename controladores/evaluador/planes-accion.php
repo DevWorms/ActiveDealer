@@ -48,7 +48,7 @@
 
 	        <div class="modal-body">
 	          	<div class="row" align="center">
-					<div class="col-md-8 col-md-offset-2">
+					<div class="col-md-12">
 						<table class="table table-bordered table-striped">
 							<tbody>
 								<tr>
