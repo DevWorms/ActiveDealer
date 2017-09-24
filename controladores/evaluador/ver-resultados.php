@@ -91,11 +91,11 @@
 									    <option value="3">Jefe de Taller</option>
 									</select>
 									<br>
-									<div class="row" id="res_Lap">
-										<div class="col-md-4" id="div_file">
+									<div class="row" id="res_Lap"">
+										<div class="col-md-4 funcionaplease" id="div_file">
 											<!--<button type="submit" class="btn btn-primary modal_boton_altura">Cargar foto</button>-->
-											<p id="text_foto">Cargar foto</p>
-											<input type="file" id="foto_newUser">
+											<p id="text_foto" class="funcionaplease">Cargar foto</p>
+											<input type="file" id="foto_newUser" class="funcionaplease">
 										</div>
 										<div class="col-md-1">
 										</div>
