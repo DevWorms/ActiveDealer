@@ -64,3 +64,95 @@ td a:hover
     margin-top: 20px;
     padding-left: 40px;
 }
+
+/* Estilos modal para crear uusario */
+.modal_textp{
+    text-align: center;
+}
+
+.modal_nivel_tipo{
+    margin-top: 3px;
+}
+
+.modal_boton_crear{
+    margin-left: 16px;
+}
+
+.modal_boton_altura{
+    margin-top: 46px;
+}
+
+/* Posisicón de los botones del modal de crear nuevo usuurio*/
+@media screen and (max-width: 991px) {
+    div#res_Lap{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 990px){
+    div#res_Tab{
+        display: none;
+    }
+}
+
+div#div_file{
+    position: relative;
+    padding:10px;
+    background-color: #337ab7;
+    -webkit-border-radius:5px;
+    -o-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -webkit-box-shadow:0px 3px 0px #1a71a9;
+
+    margin-top: 43px;
+    height: 35px;
+    margin-left: 14px;
+}
+
+input#foto_newUser{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 100%; 
+    opacity: 0;
+
+}
+
+p#text_foto{
+    text-align: center;
+    color: white;
+}
+
+input#foto_newUserDos{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 100%; 
+    opacity: 0;
+}
+
+div#div_fileDos{
+    position: relative;
+    padding:10px;
+    background-color: #337ab7;
+    -webkit-border-radius:5px;
+    -o-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -webkit-box-shadow:0px 3px 0px #1a71a9;
+
+    margin-left: 39%;
+    width: 21%;
+    margin-right: 40%;
+}
+
+
+
+    
