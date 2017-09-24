@@ -26,7 +26,7 @@
 						</tr>
 						<tr>
 							<td>
-								<a href="" class="see-user">Activos - AC (30 preguntas) <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+								<a href="#" class="see-user">Activos - AC (30 preguntas) <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 							</td>
 						</tr>
 					</tbody>
@@ -53,102 +53,102 @@
 							<tbody>
 								<tr>
 									<td>
-										<a href="google.com" target="_blank" class="see-user">1 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" target="_blank" class="see-user">1 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">2 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">2 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">3 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">3 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">4 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">4 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">5 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">5 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">6 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">6 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">7 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">7 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">8 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">8 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">9 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">9 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">10 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">10 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">11 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">11 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">12 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">12 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">13 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">13 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">14 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">14 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">15 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">15 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">16 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">16 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">17 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">17 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">18 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">18 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">19 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">19 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<a href="" class="see-user">20 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+										<a href="add-planes-b.php" class="see-user">20 - Lorem Ipsun Dolor Sit Amet <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 									</td>
 								</tr>
 

@@ -25,10 +25,10 @@
 			
 		  	<div class="row grupo-botones-inline">
 		  		<div class="col-sm-offset-1 col-sm-5 col-md-offset-3 col-md-3">
-		  			<a href="add-planes-b.php" class="btn btn-lg btn-default btn-block">Añadir Plan de Acción</a>
+		  			<a href="add-planes.php" class="btn btn-lg btn-default btn-block">Añadir Plan de Acción</a>
 		  		</div>
 		  		<div class="col-sm-5 col-md-3">
-		  			<a href="planes-accion-b.php" class="btn btn-lg btn-default btn-block">Planes de Acción</a>
+		  			<a href="planes-accion.php" class="btn btn-lg btn-default btn-block">Planes de Acción</a>
 		  		</div>
 		  	</div>
 		  	

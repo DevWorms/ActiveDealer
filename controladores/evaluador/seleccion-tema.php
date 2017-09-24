@@ -49,7 +49,7 @@
 	        <div class="modal-body">
 	          	<div class="row" align="center">
 					<div class="col-md-12 modal_textp">
-						<h4>Estás a punto de iniciar la evaluación para Carlos Alberto ¿deseas continua?</h4>
+						<h4>Estás a punto de iniciar la evaluación para Carlos Alberto ¿deseas continuar?</h4>
 					</div>
 				</div>
 	        </div>
