@@ -65,6 +65,215 @@ td a:hover
     padding-left: 40px;
 }
 
+/* Estilo general para cada bloque */
+
+.bloque_datos
+{
+
+    margin-left: 13%;
+    width: 74%;
+    margin-right: 13%;
+
+}
+
+/* Estilos preguntas */
+
+@media screen and (max-width: 1200px)
+{
+    div#pregunta_sup_1200
+    {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1201px)
+{
+    div#pregunta_min_1200
+    {
+        display: none;
+    }
+}
+
+.preguntas_bloque_info
+{
+
+    height: 125px;
+
+}
+
+/* Medias para datos generales */
+
+@media screen and (max-width: 991px)
+{
+    div#bloque_dat_gen_991Min
+    {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 992px)
+{
+    div#bloque_dat_gen_991Max
+    {
+        display: none;
+    }
+}
+
+#bloque_datosGenerales
+{
+
+    width: 87%;
+
+}
+
+.bloque_datos_foto_991
+{
+
+    width: 52%;
+
+}
+
+.preguntas_bloqueInfor_foto
+{
+
+    padding: 5px;
+    font-size: 13px;
+
+}
+
+.preguntas_bloqueLetras
+{
+
+    padding: 37px;
+    font-size: 13px;
+
+}
+
+.preguntas
+{
+
+    height: auto;
+    width: 66px;
+
+}
+
+.bloque_informacion
+{
+
+    width: 453px;
+
+}
+
+.bloque_informacion_1200
+{
+
+    width: 417px;
+    height: 136px;
+
+}
+
+.bloque_preguntando_texto
+{
+
+    width: 394px;
+    padding: 5px 39px;
+    text-align: justify;
+
+}
+
+.bloque_preguntando_texto_1200
+{
+
+    width: 394px;
+    padding: 0px 59px;
+    text-align: justify;
+
+}
+
+.bloque_preguntando_texto_991
+{
+
+    width: 394px;
+    padding: 0px 91px  0px 0px;
+    text-align: justify;
+
+}
+
+.bloque_preguntando_iconoI
+{
+
+    font-size: 58px;
+    margin-left: -19px;
+    margin-top: -1px;
+
+}
+
+.bloque_preguntando_iconoI_1200
+{
+
+    font-size: 58px;
+    margin-left: -50px;
+    margin-top: 6px;
+    
+}
+
+.bloque_preguntando_iconoI_991
+{
+
+    font-size: 58px;
+    margin-left: 303px;
+    margin-top: -78px;;
+    
+}
+
+/* Media para la pregunta en 991px */
+
+@media screen and (max-width: 991px)
+{
+    div#bloque_datos_991Min
+    {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 992px)
+{
+    div#bloque_datos_991Maxn
+    {
+        display: none;
+    }
+}
+
+.bloque_preguntando_borde
+{
+
+    border: solid 1px #a1a1a1;
+}
+
+.bloque_preguntando_botones
+{
+
+    font-size: 58px;
+}
+
+.bloque_preguntando_tabla
+{
+    background-color: #a1a1a1;
+}
+
+.bloque_preguntando_botonesFinales
+{
+    margin-top: -30px;
+}
+
+.bloque_preguntando_margenesFoto
+{
+    margin-left: 13%;
+    width: 83%;
+    margin-right: 16%;
+    margin-top: 27px;
+}
+
 /*Botones Advertencia*/
 .boton_adver
 {
@@ -72,6 +281,7 @@ td a:hover
 
     width: 100%;
 }
+
 
 /* Estilos modal para crear uusario */
 .modal_textp
@@ -94,6 +304,7 @@ td a:hover
     margin-top: 46px;
 }
 
+
 /* Posisicón de los botones del modal de crear nuevo usuurio*/
 @media screen and (max-width: 991px)
 {
@@ -114,22 +325,44 @@ td a:hover
 div#div_file
 {
     position: relative;
-
     height: 35px;
     margin-top: 43px;
     margin-left: 14px;
     padding: 10px;
-
-    -webkit-border-radius: 5px;
-       -moz-border-radius: 5px;
     background-color: #337ab7;
 
-         -o-border-radius: 5px;
-        -ms-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+
+}
+
+.funcionaplease{
+    cursor: pointer;
+}
+
+
+
+div#div_file:hover
+{
+
+    background-color: #204d74;
+    color: white;
+
+}
+
+div#div_fileDos:hover
+{
+
+    background-color: #204d74;
+    color: white;
+    
 }
 
 input#foto_newUser
 {
+
     position: absolute;
     top: 0;
     right: 0;
@@ -152,10 +385,10 @@ p#text_foto
 input#foto_newUserDos
 {
     position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
 
     width: 100%;
     height: 100%;
@@ -166,16 +399,14 @@ input#foto_newUserDos
 div#div_fileDos
 {
     position: relative;
-
     width: 21%;
     height: 37px;
     margin-right: 40%;
 
     -webkit-border-radius: 5px;
-       -moz-border-radius: 5px;
-    background-color: #337ab7;
+    -moz-border-radius: 5px;
     -webkit-box-shadow: 0 3px 0 #1a71a9;
-
-         -o-border-radius: 5px;
-        -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+    
 }
