@@ -11,7 +11,7 @@
 		</div>
 
 		<div class="row encabezado2-seccion" align="center">
-			<h4>Selecciona un usuario</h4>
+			<h4>Selecciona Usuario</h4>
 		</div>
 
 		
