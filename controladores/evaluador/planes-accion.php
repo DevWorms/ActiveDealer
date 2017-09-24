@@ -11,7 +11,7 @@
 		</div>
 
 		<div class="row encabezado2-seccion" align="center">
-			<h4>Seleciona tema</h4>
+			<h4>Seleciona un tema</h4>
 		</div>
 
 		

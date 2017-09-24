@@ -25,7 +25,7 @@
 			
 		  	<div class="row grupo-botones-inline">
 		  		<div class="col-md-offset-3 col-md-3">
-		  			<a href="#" class="btn btn-lg btn-default btn-block">Añadir Plan de Acción</a>
+		  			<a href="add-planes-b.php" class="btn btn-lg btn-default btn-block">Añadir Plan de Acción</a>
 		  		</div>
 		  		<div class="col-md-3">
 		  			<a href="#" class="btn btn-lg btn-default btn-block">Planes de Acción</a>
@@ -34,7 +34,7 @@
 		  	
 		  	<div class="row grupo-botones-inline">
 				<div class="col-md-offset-4 col-md-4">
-					<a href="#" class="btn btn-lg btn-default">Contenido de la guia</a>
+					<a href="contenido-guia.php" class="btn btn-lg btn-default">Contenido de la guia</a>
 				</div>
 		  	</div>
 		</div>
