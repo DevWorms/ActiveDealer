@@ -100,7 +100,7 @@
 										<div class="col-md-1">
 										</div>
 										<div class="col-md-4">
-											<button type="submit" class="btn btn-primary modal_boton_crear modal_boton_altura">Crear Usuario</button>
+											<button type="submit" class="btn btn-default modal_boton_crear modal_boton_altura">Crear Usuario</button>
 										</div>
 									</div>
 
@@ -112,7 +112,7 @@
 											<input type="file" id="foto_newUserDos">
 										</div>
 										<br>
-										<button type="submit" class="btn btn-primary">Crear Usuario</button>
+										<button type="submit" class="btn btn-default">Crear Usuario</button>
 										</div>
 									</div>
 		            			</div>

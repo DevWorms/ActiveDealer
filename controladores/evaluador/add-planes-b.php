@@ -23,7 +23,7 @@
 							<div class="input-group">
 								<input type="text" class="search-query form-control" id="fecha-hallazgo" name="fecha-hallazgo" placeholder="aaaa / mm / dd" required>
 								<span class="input-group-btn">
-								<button class="btn btn-primary" type="button">
+								<button class="btn btn-default" type="button">
 								    <i class="fa fa-calendar" aria-hidden="true"></i>
 								</button>
 								</span>
@@ -48,7 +48,7 @@
 							<div class="input-group">
 								<input type="text" class="search-query form-control" id="fecha-implementacion" name="fecha-implementacion" placeholder="aaaa / mm / dd" required>
 								<span class="input-group-btn">
-								<button class="btn btn-primary" type="button">
+								<button class="btn btn-default" type="button">
 								    <i class="fa fa-calendar" aria-hidden="true"></i>
 								</button>
 								</span>
@@ -88,7 +88,7 @@
 							<div class="input-group">
 								<input type="text" class="search-query form-control" id="fecha-revision" name="fecha-revision" placeholder="aaaa / mm / dd" required>
 								<span class="input-group-btn">
-								<button class="btn btn-primary" type="button">
+								<button class="btn btn-default" type="button">
 								    <i class="fa fa-calendar" aria-hidden="true"></i>
 								</button>
 								</span>
@@ -107,7 +107,7 @@
 					    </div>
 					</div>
 					<div class="col-sm-6 col-md-offset-2 col-md-2">
-						<button class="btn btn-default btn-block btn-pregunta"><i class="fa fa-camera" aria-hidden="true"></i>Añadir Evidencia</button>
+						<button class="btn btn-default btn-block btn-pregunta"><i class="fa fa-camera" style="color: #fff;" aria-hidden="true"></i>Añadir Evidencia</button>
 					</div>
 					<div class="col-sm-6 col-md-offset-1 col-md-2">
 						<button class="btn btn-default btn-block btn-pregunta">Añadir Plan</button>

@@ -21,3 +21,26 @@
 {
     margin-right: 10px;
 }
+
+.btn {
+   -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    -webkit-transition: all 200ms linear;
+         -o-transition: all 200ms linear;
+            transition: all 200ms linear;
+}
+
+.btn-default
+{
+    color: #fff;
+    border-color: #c35c5c;
+    background-color: #c35c5c;    
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default {
+    color: #fff;
+    background-color: #AB5454;
+    border-color: #AB5454;
+}

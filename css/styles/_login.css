@@ -12,18 +12,20 @@
 
     margin-bottom: 20px;
 
-    color: #858585;
+    color: #A03535;
 }
 
 .login-form
 {
     padding: 20px 80px;
 
-    border: solid 1px #A1A1A1;
+    border: solid 1px #a03535;
+    border-bottom-width: 3px;
     border-radius: 10px;
-    background-color: #f0f0f0;
+    background-color: #fae3d4;
 }
 
-.form-group-title {
-	color: #838383;
+.form-group-title
+{
+    color: #C35C5C;
 }

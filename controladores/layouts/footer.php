@@ -1,7 +1,7 @@
 	<!-- Footer -->
 	<div class="container">
 		<footer>
-      <p class="footer-company">&copy; Devworms 2017</p>
+      <p class="footer-company">&copy; <b>Devworms</b> 2017</p>
     </footer>
 	</div>
   <!-- /Fin footer -->        

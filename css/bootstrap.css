@@ -915,12 +915,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #337ab7;
+  color: #c35c5c;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #23527c;
+  color: #A03535;
   text-decoration: underline;
 }
 a:focus {
@@ -3682,7 +3682,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   max-width: none;
 }
 .nav-tabs {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #c35c5c;
 }
 .nav-tabs > li {
   float: left;
@@ -3695,15 +3695,16 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-radius: 4px 4px 0 0;
 }
 .nav-tabs > li > a:hover {
-  border-color: #eee #eee #ddd;
+  border-bottom-color: #c35c5c;
+  background-color: #F3F3F3;
 }
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  color: #555;
+  color: #c35c5c;
   cursor: default;
   background-color: #fff;
-  border: 1px solid #ddd;
+  border: 1px solid #c35c5c;
   border-bottom-color: transparent;
 }
 .nav-tabs.nav-justified {

@@ -210,13 +210,13 @@
 
 					<div class="col-xs-6 col-md-6">
 						
-						<i class="fa fa-camera bloque_preguntando_botones" aria-hidden="true"></i>&nbsp;<button type="button" class="btn btn-secondary bloque_preguntando_botonesFinales">Agregar evidencia</button> 
+						<i class="fa fa-camera bloque_preguntando_botones" aria-hidden="true"></i>&nbsp;<button type="button" class="btn btn-default bloque_preguntando_botonesFinales">Agregar evidencia</button> 
 
 					</div>
 
 					<div class="col-xs-6 col-md-6">
 						
-						<i class="fa fa-check-circle bloque_preguntando_botones" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;<button type="button" class="btn btn-secondary bloque_preguntando_botonesFinales">Siguiente pregunta</button>
+						<i class="fa fa-check-circle bloque_preguntando_botones" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;<button type="button" class="btn btn-default bloque_preguntando_botonesFinales">Siguiente pregunta</button>
 
 					</div>
 					

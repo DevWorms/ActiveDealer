@@ -21,12 +21,12 @@
 					<tbody>
 						<tr>
 							<td>
-								<a data-toggle="modal" data-target="#myModal" href="" class="see-user">Operación - OP (20 preguntas) <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+								<a data-toggle="modal" data-target="#myModal" href="#" class="see-user">Operación - OP (20 preguntas) <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 							</td>
 						</tr>
 						<tr>
 							<td>
-								<a href="#" class="see-user">Activos - AC (30 preguntas) <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
+								<a data-toggle="modal" data-target="#myModal" href="#" class="see-user">Activos - AC (30 preguntas) <i class="glyphicon glyphicon-chevron-right icon-option"></i></a>
 							</td>
 						</tr>
 					</tbody>

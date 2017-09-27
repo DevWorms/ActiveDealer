@@ -18,7 +18,7 @@
               <li><a href="#">Resumen</a></li>
               <li><a href="#">Iniciar</a></li>
               <li role="separator" class="divider"></li>
-              <li><a href="#">Cerrar Sesión</a></li>
+              <li><a href="../../index.php">Cerrar Sesión</a></li>
             </ul>
           </li>
         </ul>

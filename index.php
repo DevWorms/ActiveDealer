@@ -50,10 +50,10 @@
                     
                     <div class="row">
                         <div class="col-md-offset-2 col-md-4">     
-                            <button type="submit" class="btn btn-default btn-block">Evaluador</button>
+                            <button type="submit" class="btn btn-default btn-block"><a class="no-style" href="controladores/evaluador/inicio-evaluador.php">Evaluador</a></button>
                         </div>
                         <div class="col-md-4">     
-                            <button type="submit" class="btn btn-default btn-block">Usuario</button>
+                            <button type="submit" class="btn btn-default btn-block"><a class="no-style" href="controladores/usuario/usuario.php">Usuario</a></button>
                         </div>
                     </div>
                 </form>
