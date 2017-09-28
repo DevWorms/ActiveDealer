@@ -13,6 +13,29 @@ h4
     color: #a03535;;
 }
 
+.h2-res-sm {
+    font-size: 30px;
+}
+
+.h3-res-sm
+{
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 500px)
+{
+    .h2-res-sm {
+        font-size: 25px;
+    }
+
+    .h3-res-sm
+    {
+        font-size: 22px;
+        margin-bottom: 25px;
+    }
+}
+
 .no-style
 {
     text-decoration: none;
@@ -140,6 +163,19 @@ h4
 }
 
 /* Tabla Responsive */
+
+@media screen and (max-width: 500px)
+{
+    .tab-content,
+    .tab-content2
+    {
+        font-size: 5px;
+    }
+
+    .tab-content {
+        padding: 5px;
+    }
+}
 
 @media screen and (max-width: 800px)
 {

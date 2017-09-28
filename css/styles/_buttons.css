@@ -22,8 +22,9 @@
     margin-right: 10px;
 }
 
-.btn {
-   -webkit-user-select: none;
+.btn
+{
+    -webkit-user-select: none;
        -moz-user-select: none;
         -ms-user-select: none;
             user-select: none;
@@ -36,11 +37,49 @@
 {
     color: #fff;
     border-color: #c35c5c;
-    background-color: #c35c5c;    
+    background-color: #c35c5c;
 }
 
-.btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default {
+.btn-default:hover,
+.btn-default:focus,
+.btn-default.focus,
+.btn-default:active,
+.btn-default.active,
+.open > .dropdown-toggle.btn-default
+{
     color: #fff;
-    background-color: #AB5454;
-    border-color: #AB5454;
+    border-color: #ab5454;
+    background-color: #ab5454;
+}
+
+.btn-res-sm
+{
+    margin: 0;
+}
+
+/* EVALUADOR */
+
+.grupo-botones-inline
+{
+    margin-top: 50px;
+}
+
+
+@media screen and (max-width: 500px)
+{
+    .btn-res-sm
+    {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    .btn-res-sm2
+    {
+        margin-top: 10px;
+    }
+
+    .grupo-botones-inline
+    {
+        margin-top: 10px;
+    }
 }

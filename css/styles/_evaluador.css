@@ -11,11 +11,6 @@
     background-color: #fae3d4;
 }
 
-.grupo-botones-inline
-{
-    margin-top: 50px;
-}
-
 td a
 {
     margin-left: 20px;
@@ -30,6 +25,19 @@ td a:hover
     text-decoration: none;
 
     color: #6d6d6d;
+}
+
+@media screen and (max-width: 500px)
+{
+    .menu-evaluador
+    {
+        padding: 15px 20px 35px 20px;
+    }
+
+    td a
+    {
+        margin-left: 0px;
+    }
 }
 
 .user-highlight
