@@ -163,9 +163,15 @@
 						</div>
 
 
-						<div class="col-md-6">
+						<div class="col-md-6" id="bloque_preguntando_margenesFoto_escritorio">
 
 							<img class="bloque_preguntando_margenesFoto" src="../../img/imagesPrueba/ejemploImagen.png">
+
+						</div>
+
+						<div class="col-md-6" id="bloque_preguntando_margenesFoto_movil">
+
+							<img class="bloque_preguntando_margenesFoto_movil" src="../../img/imagesPrueba/ejemploImagen.png">
 
 						</div>
 

@@ -225,10 +225,36 @@
 .bloque_preguntando_margenesFoto
 {
     width: 83%;
-    margin-top: 27px;
+    margin-top: 13px;
     margin-right: 16%;
     margin-left: 13%;
 }
+
+.bloque_preguntando_margenesFoto_movil
+{
+    width: 83%;
+    margin-top: 13px;
+    margin-right: 10%;
+    margin-left: 7%;
+}
+
+/* Medias Foto margues*/
+@media screen and (max-width: 991px)
+{
+    div#bloque_preguntando_margenesFoto_escritorio
+    {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 990px)
+{
+    div#bloque_preguntando_margenesFoto_movil
+    {
+        display: none;
+    }
+}
+
 
 /* Estilos modal para crear uusario */
 .modal_textp
