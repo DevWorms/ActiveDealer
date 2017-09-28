@@ -86,9 +86,11 @@
     padding: 30px;
 }
 
-.preguntas_bloqueLetras2 {
+.preguntas_bloqueLetras2
+{
     font-size: 15px;
-    padding-left: 10px;
+
+    padding-left: 20px;
 }
 
 .preguntas
@@ -252,10 +254,10 @@
     background-color: #dddcdc;
 }
 
-/*.bloque_preguntando_botonesFinales
+.bloque_preguntando_botonesFinales
 {
     margin-top: 15px;
-}*/
+}
 
 .bloque_preguntando_margenesFoto
 {

@@ -227,22 +227,22 @@
 
 					<div class="col-xs-6">
 
-						<div class="col-xs-offset-4 col-xs-2 col-sm-offset-2 col-sm-4 col-md-offset-4 col-md-2">
+						<div class="col-sm-4 col-md-offset-4 col-md-2">
 							<i class="fa fa-camera bloque_preguntando_botones" aria-hidden="true"></i>
 						</div>
-						<div class="col-xs-4">
-							<button type="button" class="btn btn-default bloque_preguntando_botonesFinales">Agregar evidencia</button> 
+						<div class="col-xs-4 col-sm-7 col-md-4">
+							<button type="button" class="btn btn-default btn-block bloque_preguntando_botonesFinales">Agregar evidencia</button> 
 						</div>
 
 					</div>
 
 					<div class="col-xs-6">
 						
-						<div class="col-xs-offset-4 col-xs-2 col-sm-offset-2 col-sm-4 col-md-offset-4 col-md-2">
+						<div class="col-sm-4 col-md-offset-2 col-md-2">
 							<i class="fa fa-check-circle bloque_preguntando_botones" aria-hidden="true"></i>
 						</div>
-						<div class="col-xs-4">
-							<button type="button" class="btn btn-default bloque_preguntando_botonesFinales">Siguiente pregunta</button>
+						<div class="col-xs-4 col-sm-7 col-md-4">
+							<button type="button" class="btn btn-default btn-block bloque_preguntando_botonesFinales">Siguiente pregunta</button>
 						</div>
 
 					</div>
