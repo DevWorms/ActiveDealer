@@ -58,7 +58,7 @@
                                 </p>
                             </div>
                             <div class="col-md-6">
-                                <img src="http://via.placeholder.com/500?text=imgPreview" class="img-preview" alt="">
+                                <img src="http://via.placeholder.com/500?text=imgPreview" class="img-preview" alt="image preview">
                             </div>
                         </div>
                     </div>
