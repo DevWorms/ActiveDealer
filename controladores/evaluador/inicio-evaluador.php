@@ -7,11 +7,11 @@
 
 	<div class="container main-container">
 
-		<div class="container encabezado-seccion" align="center">
+		<div class="encabezado-seccion" align="center">
 			<h2 class="h2-res-sm">¡Bienvenido @usuario!</h2>
 		</div>
 		  
-		<div class="container menu-evaluador" align="center">
+		<div class="menu-evaluador" align="center">
 		  	<h3 class="h3-res-sm">¿Qué desea realizar?</h3>
 
 		  	<div class="row grupo-botones-inline">

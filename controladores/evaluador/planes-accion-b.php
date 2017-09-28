@@ -10,11 +10,11 @@
             <h2 class="h2-res-sm">Planes de Acción</h2>
         </div>
 
-        <div class="container container-pregunta" align="center">
+        <div class="container-pregunta" align="center">
             <p>AC-1 ¿El concesionario cuenta con un juego de herramientas especiales (SSt) que cumpla con los lineamientos de TMEX?</p>
         </div>
       
-        <div class="container">
+        <div>
             <ul class="nav nav-tabs">
                 <li class="active"><a data-toggle="tab" href="#home">General</a></li>
                 <li><a data-toggle="tab" href="#menu1">Detalle</a></li>
