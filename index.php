@@ -49,10 +49,10 @@
                     </br>
                     
                     <div class="row">
-                        <div class="col-md-offset-2 col-md-4">     
+                        <div class="col-sm-offset-2 col-sm-4">     
                             <button type="submit" class="btn btn-default btn-block"><a class="no-style" href="controladores/evaluador/inicio-evaluador.php">Evaluador</a></button>
                         </div>
-                        <div class="col-md-4">     
+                        <div class="col-sm-4">     
                             <button type="submit" class="btn btn-default btn-block btn-res-sm"><a class="no-style" href="controladores/usuario/usuario.php">Usuario</a></button>
                         </div>
                     </div>
