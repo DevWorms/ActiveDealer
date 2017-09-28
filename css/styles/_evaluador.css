@@ -66,12 +66,28 @@ td a:hover
     background-color: #fae3d4;
 }
 
-
 .planes-content
 {
     margin-top: 20px;
     padding-left: 40px;
 }
+
+
+@media screen and (max-width: 500px)
+{
+    .container-pregunta {
+        font-size: 11px;
+        margin-bottom: 40px;
+    }
+
+    .planes-content
+    {
+        margin-top: 20px;
+        padding-left: 0px;
+    }
+
+}
+
 
 /* Estilo general para cada bloque */
 

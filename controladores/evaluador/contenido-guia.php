@@ -7,7 +7,7 @@
 
 <div class="container main-container">
 		<div class="row encabezado-seccion" align="center">
-			<h2>Contenido de la Guía de Evaluación</h2>
+			<h2 class="h2-res-sm">Contenido de la Guía de Evaluación</h2>
 		</div>
 
         <br/>

@@ -7,7 +7,7 @@
 
 	<div class="container main-container">
 		<div class="row encabezado-seccion" align="center">
-			<h2>Cuestionario de Evaluación</h2>
+			<h2 class="h2-res-sm">Cuestionario de Evaluación</h2>
 		</div>
 
 		<div class="row encabezado2-seccion" align="center">

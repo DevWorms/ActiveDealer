@@ -7,7 +7,7 @@
 
 	<div class="container main-container">
 		<div class="row encabezado-seccion" align="center">
-			<h2>Añadir Plan de Acción</h2>
+			<h2 class="h2-res-sm">Añadir Plan de Acción</h2>
 		</div>
 
 		<div class="container container-pregunta" align="center">

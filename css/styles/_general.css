@@ -13,25 +13,29 @@ h4
     color: #a03535;;
 }
 
-.h2-res-sm {
+.h2-res-sm
+{
     font-size: 30px;
 }
 
 .h3-res-sm
 {
     font-size: 24px;
+
     margin-bottom: 0;
 }
 
 @media screen and (max-width: 500px)
 {
-    .h2-res-sm {
+    .h2-res-sm
+    {
         font-size: 25px;
     }
 
     .h3-res-sm
     {
         font-size: 22px;
+
         margin-bottom: 25px;
     }
 }
@@ -162,20 +166,17 @@ h4
     height: 400px;
 }
 
-/* Tabla Responsive */
-
-@media screen and (max-width: 500px)
+.form-group-sp
 {
-    .tab-content,
-    .tab-content2
-    {
-        font-size: 5px;
-    }
-
-    .tab-content {
-        padding: 5px;
-    }
+    font-size: inherit;
 }
+
+.form-group-center
+{
+    text-align: inherit;
+}
+
+/* Tabla Responsive */
 
 @media screen and (max-width: 800px)
 {
@@ -183,6 +184,31 @@ h4
     .tab-content2
     {
         font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 500px)
+{
+    .tab-content
+    {
+        font-size: 5px;
+
+        padding: 5px;
+    }
+
+    .tab-content2
+    {
+        font-size: 8px;
+    }
+
+    .form-group-sp
+    {
+        font-size: 10px;
+    }
+
+    .form-group-center
+    {
+        text-align: center;
     }
 }
 

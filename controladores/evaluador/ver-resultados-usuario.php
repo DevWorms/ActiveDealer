@@ -7,7 +7,7 @@
 
 	<div class="container main-container">
 	  <div class="row encabezado-seccion" align="center">
-	  	<h2>Resumen Usuario</h2>
+	  	<h2 class="h2-res-sm">Resumen Usuario</h2>
 	  </div>
 	  
 	  <ul class="nav nav-tabs">
@@ -18,7 +18,7 @@
 	  <div class="tab-content">
 	    <div id="home" class="tab-pane fade in active">
 	      <div class="row" align="center">
-  				<h3 class="encabezado-tab">Resumen</h3>
+  				<h3 class="encabezado-tab h3-res-sm">Resumen</h3>
 	      </div>
 	      	      
 	      <table class="table table-striped">
