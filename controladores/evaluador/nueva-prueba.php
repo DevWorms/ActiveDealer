@@ -74,8 +74,7 @@
 	    							<label for="observaciones">Observaciones</label>
     								<textarea class="form-control" id="obv_NewUser"></textarea>
 		            			</div>
-
-		            			<div class="col-md-6 modal_texto">
+		            			<div class="col-md-6 modal_texto input-space">
 		              				<label for="apellidos">Apellidos</label>
 	    							<input type="text" class="form-control" id="apellido_NewUser">
 	    							<br>
