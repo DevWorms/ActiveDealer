@@ -60,15 +60,15 @@
 		          			<div class="row">
 		            			<div class="col-md-6 modal_texto">
 		              				<label for="nombre">Nombre</label>
-	    							<input type="text" class="form-control" id="nombre_NewUser">
+	    							<input type="text" class="form-control" id="nombre_NewUser" name="nombre_NewUser">
 	    							<br>
 
 	    							<label for="telefono">Teléfono</label>
-	    							<input type="text" class="form-control" id="telefono_NewUser">
+	    							<input type="text" class="form-control" id="telefono_NewUser" name="telefono_NewUser">
 	    							<br>
 
 	    							<label for="telefono">Número de empleado</label>
-	    							<input type="text" class="form-control" id="telefono_NewUser">
+	    							<input type="text" class="form-control" id="telefono_NewUser" name="telefono_NewUser">
 	    							<br>
 
 	    							<label for="observaciones">Observaciones</label>
@@ -77,7 +77,7 @@
 
 		            			<div class="col-md-6 modal_texto">
 		              				<label for="apellidos">Apellidos</label>
-	    							<input type="text" class="form-control" id="apellido_NewUser">
+	    							<input type="text" class="form-control" id="apellido_NewUser" name="apellido_NewUser">
 	    							<br>
 
 	    							<label for="direccion">Dirección</label>
@@ -95,7 +95,7 @@
 										<div class="col-md-4 funcionaplease" id="div_file">
 											<!--<button type="submit" class="btn btn-primary modal_boton_altura">Cargar foto</button>-->
 											<p id="text_foto" class="funcionaplease">Cargar foto</p>
-											<input type="file" id="foto_newUser" class="funcionaplease">
+											<input type="file" id="foto_newUser" class="funcionaplease" name="foto_newUser">
 										</div>
 										<div class="col-md-1">
 										</div>
@@ -111,7 +111,7 @@
 												<div id="div_fileDos">
 													<!--<button type="submit" class="btn btn-primary modal_boton_altura">Cargar foto</button>-->
 													<p id="text_foto_chica">Cargar foto</p>
-													<input type="file" id="foto_newUserDos">
+													<input type="file" id="foto_newUserDos" name="foto_newUserDos">
 												</div>
 												
 											</center>
