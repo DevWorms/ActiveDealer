@@ -106,11 +106,16 @@
 
 									<div class="row" id="res_Tab">
 										<div class="col-md-4">
-											<div id="div_fileDos">
-											<!--<button type="submit" class="btn btn-primary modal_boton_altura">Cargar foto</button>-->
-											<p id="text_foto">Cargar foto</p>
-											<input type="file" id="foto_newUserDos">
-										</div>
+											<center>
+												
+												<div id="div_fileDos">
+													<!--<button type="submit" class="btn btn-primary modal_boton_altura">Cargar foto</button>-->
+													<p id="text_foto_chica">Cargar foto</p>
+													<input type="file" id="foto_newUserDos">
+												</div>
+														
+											</center>
+											
 										<br>
 										<button type="submit" class="btn btn-default">Crear Usuario</button>
 										</div>

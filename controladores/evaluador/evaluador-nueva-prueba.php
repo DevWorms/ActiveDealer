@@ -102,19 +102,24 @@
 										<div class="col-md-1">
 										</div>
 										<div class="col-md-4">
-											<button type="submit" class="btn btn-primary modal_boton_crear modal_boton_altura">Crear Usuario</button>
+											<button type="submit" class="btn btn-default modal_boton_crear modal_boton_altura">Crear Usuario</button>
 										</div>
 									</div>
 
 									<div class="row" id="res_Tab">
 										<div class="col-md-4">
-											<div id="div_fileDos">
-											<!--<button type="submit" class="btn btn-primary modal_boton_altura">Cargar foto</button>-->
-											<p id="text_foto">Cargar foto</p>
-											<input type="file" id="foto_newUserDos">
-										</div>
+											<center>
+												
+												<div id="div_fileDos">
+													<!--<button type="submit" class="btn btn-primary modal_boton_altura">Cargar foto</button>-->
+													<p id="text_foto_chica">Cargar foto</p>
+													<input type="file" id="foto_newUserDos">
+												</div>
+												
+											</center>
+											
 										<br>
-										<button type="submit" class="btn btn-primary">Crear Usuario</button>
+										<button type="submit" class="btn btn-default">Crear Usuario</button>
 										</div>
 									</div>
 

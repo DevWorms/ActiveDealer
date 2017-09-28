@@ -347,7 +347,7 @@ div#div_file:hover
 div#div_fileDos:hover
 {
     color: white;
-    background-color: #204d74;
+    background-color:#ab5454;
 }
 
 input#foto_newUser
@@ -367,7 +367,13 @@ input#foto_newUser
 p#text_foto
 {
     text-align: center;
+    color: white;
+}
 
+p#text_foto_chica
+{
+    text-align: center;
+    padding: 10px;
     color: white;
 }
 
@@ -389,13 +395,15 @@ div#div_fileDos
 {
     position: relative;
 
-    width: 21%;
+    width: 111px;
     height: 37px;
-    margin-right: 40%;
+    /*margin-left: 10px;*/
+    /*margin-right: 41.5%;*/
+    background-color: #c35c5c;;
 
     -webkit-border-radius: 5px;
        -moz-border-radius: 5px;
-    -webkit-box-shadow: 0 3px 0 #1a71a9;
+    -webkit-box-shadow: 0 3px 0 #c35c5c;;   
 
          -o-border-radius: 5px;
         -ms-border-radius: 5px;
