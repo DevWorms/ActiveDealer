@@ -7,11 +7,11 @@
 
 	<div class="container main-container">
 
-		<div class="container encabezado-seccion" align="center">
+		<div class="row encabezado-seccion" align="center">
 			<h4>AC-1 <i class="fa fa-caret-right" aria-hidden="true"></i> Herramientas especiales</h4>
 		</div>
 		  
-		<div class="container menu-evaluador preguntas_bloque_info" align="center">
+		<div class="menu-evaluador preguntas_bloque_info" align="center">
 		  	
 		  	<div class="row">
 
@@ -20,7 +20,7 @@
 		  			<div id="bloque_dat_gen_991Min">
 		  				
 		  				<div class="col-md-4 preguntas_bloqueInfor_foto">
-			  				<img src="../../img/imagesPrueba/photoInfantil.jpg" class="preguntas">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Persona: Carlos Alberto - Jefe de Taller
+			  				<img src="../../img/imagesPrueba/photoInfantil.jpg" class="preguntas"><span class="preguntas_bloqueLetras2">Persona: Carlos Alberto - Jefe de Taller</span>			
 			  			</div>
 
 			  			<div class="col-md-4 preguntas_bloqueLetras">
@@ -163,15 +163,9 @@
 						</div>
 
 
-						<div class="col-md-6" id="bloque_preguntando_margenesFoto_escritorio">
+						<div class="col-md-6">
 
 							<img class="bloque_preguntando_margenesFoto" src="../../img/imagesPrueba/ejemploImagen.png">
-
-						</div>
-
-						<div class="col-md-6" id="bloque_preguntando_margenesFoto_movil">
-
-							<img class="bloque_preguntando_margenesFoto_movil" src="../../img/imagesPrueba/ejemploImagen.png">
 
 						</div>
 
@@ -184,46 +178,42 @@
 			<div class="row">
 
 				<div class="col-md-12">
-
-					<div class="container">
            
-					  <table class="table table-bordered modal_textp">
+				  <table class="table table-bordered modal_textp">
 
-					    <thead>
+				    <thead>
 
-					      <tr>
+				      <tr>
 
-					        <th class="modal_textp bloque_preguntando_tabla">Objeto de Evaluación</th>
+				        <th class="modal_textp bloque_preguntando_tabla">Objeto de Evaluación</th>
 
-					        <th class="modal_textp bloque_preguntando_tabla">Método de Evaluación</th>
+				        <th class="modal_textp bloque_preguntando_tabla">Método de Evaluación</th>
 
-					      </tr>
+				      </tr>
 
-					    </thead>
+				    </thead>
 
-					    <tbody>
+				    <tbody>
 
-					      <tr>
+				      <tr>
 
-					        <td>[ sí ] [ no ] Disponibilidad de herramientas especiales de servicio (SST)</td>
+				        <td>[ sí ] [ no ] Disponibilidad de herramientas especiales de servicio (SST)</td>
 
-					        <td>Comprobar la disponibilidad de al menos un juego de herramientas de servicio (SST)</td>
+				        <td>Comprobar la disponibilidad de al menos un juego de herramientas de servicio (SST)</td>
 
-					      </tr>
+				      </tr>
 
-					      <tr>
+				      <tr>
 
-					        <td>[ sí ] [ no ] Cumplimiento de los lineamientos de TMEX</td>
+				        <td>[ sí ] [ no ] Cumplimiento de los lineamientos de TMEX</td>
 
-					        <td>Verifique las herramientas disponibles con la lista autorizada por TMEX</td>
+				        <td>Verifique las herramientas disponibles con la lista autorizada por TMEX</td>
 
-					      </tr>
+				      </tr>
 
-					    </tbody>
+				    </tbody>
 
-					  </table>
-
-					</div>
+				  </table>
 
 				</div>
 
@@ -233,17 +223,27 @@
 
 			<div class="row" id="bloque_btn_dos">
 
-				<div class="col-md-12 modal_textp">
+				<div class="row modal_textp">
 
-					<div class="col-xs-6 col-md-6">
-						
-						<i class="fa fa-camera bloque_preguntando_botones" aria-hidden="true"></i>&nbsp;<button type="button" class="btn btn-default bloque_preguntando_botonesFinales">Agregar evidencia</button> 
+					<div class="col-xs-6">
+
+						<div class="col-xs-offset-4 col-xs-2 col-sm-offset-2 col-sm-4 col-md-offset-4 col-md-2">
+							<i class="fa fa-camera bloque_preguntando_botones" aria-hidden="true"></i>
+						</div>
+						<div class="col-xs-4">
+							<button type="button" class="btn btn-default bloque_preguntando_botonesFinales">Agregar evidencia</button> 
+						</div>
 
 					</div>
 
-					<div class="col-xs-6 col-md-6">
+					<div class="col-xs-6">
 						
-						<i class="fa fa-check-circle bloque_preguntando_botones" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;<button type="button" class="btn btn-default bloque_preguntando_botonesFinales">Siguiente pregunta</button>
+						<div class="col-xs-offset-4 col-xs-2 col-sm-offset-2 col-sm-4 col-md-offset-4 col-md-2">
+							<i class="fa fa-check-circle bloque_preguntando_botones" aria-hidden="true"></i>
+						</div>
+						<div class="col-xs-4">
+							<button type="button" class="btn btn-default bloque_preguntando_botonesFinales">Siguiente pregunta</button>
+						</div>
 
 					</div>
 					
@@ -252,17 +252,27 @@
 			</div>
 
 			<div id="bloque_btn_movil">
-
-				<div class="col-md-12 modal_textp">
-
-					<i class="fa fa-camera bloque_preguntando_botones" aria-hidden="true"></i>&nbsp;<button type="button" class="btn btn-default bloque_preguntando_botonesFinales">Agregar evidencia</button> 
-
-				<div class="col-md-12 modal_textp"><br>
-						
-						<i class="fa fa-check-circle bloque_preguntando_botones" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;<button type="button" class="btn btn-default bloque_preguntando_botonesFinales">Siguiente pregunta</button>
+					
+				<div class="row">
+					
+					<div class="col-xs-offset-1 col-xs-2">
+						<i class="fa fa-camera bloque_preguntando_botones" aria-hidden="true"></i>
+					</div>
+					<div class="col-xs-8">
+						<button type="button" class="btn btn-default btn-block">Agregar evidencia</button> 
+					</div>
 
 				</div>
+				<br>
+				<div class="row">
 					
+					<div class="col-xs-offset-1 col-xs-2">
+						<i class="fa fa-check-circle bloque_preguntando_botones" aria-hidden="true"></i>
+					</div>
+					<div class="col-xs-8">
+						<button type="button" class="btn btn-default btn-block">Siguiente pregunta</button>
+					</div>
+
 				</div>
 				
 			</div>

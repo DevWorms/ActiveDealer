@@ -45,14 +45,13 @@
 .bloque_datos_foto_991
 {
     width: 52%;
-    
 }
 
 .bloque_datos_foto_371
 {
-    width: 52%;
     font-size: 10px;
-    
+
+    width: 52%;
 }
 
 /* Letras alado de la foto 370*/
@@ -82,9 +81,14 @@
 
 .preguntas_bloqueLetras
 {
-    font-size: 13px;
+    font-size: 15px;
 
     padding: 30px;
+}
+
+.preguntas_bloqueLetras2 {
+    font-size: 15px;
+    padding-left: 10px;
 }
 
 .preguntas
@@ -127,8 +131,19 @@
 
 .bloque_preguntando_texto_500
 {
-	font-size: 14px;
+    font-size: 14px;
+
     text-align: justify;
+}
+
+@media screen and (max-width: 500px)
+{
+    .bloque_preguntando_texto
+    {
+        font-size: 12px;
+
+        text-align: justify;
+    }
 }
 
 .bloque_preguntando_texto_991
@@ -158,6 +173,18 @@
 .bloque_preguntando_iconoI_500
 {
     font-size: 58px;
+
+    margin-top: 0;
+}
+
+@media screen and (max-width: 500px)
+{
+    .bloque_preguntando_iconoI_500
+    {
+        font-size: 38px;
+
+        margin-top: 15px;
+    }
 }
 
 .bloque_preguntando_iconoI_991
@@ -212,55 +239,57 @@
     font-size: 58px;
 }
 
+@media screen and (max-width: 500px)
+{
+    .bloque_preguntando_botones
+    {
+        font-size: 30px;
+    }
+}
+
 .bloque_preguntando_tabla
 {
     background-color: #dddcdc;
 }
 
-.bloque_preguntando_botonesFinales
+/*.bloque_preguntando_botonesFinales
 {
-    margin-top: -30px;
-}
+    margin-top: 15px;
+}*/
 
 .bloque_preguntando_margenesFoto
 {
     width: 83%;
-    margin-top: 13px;
+    margin-top: 0;
     margin-right: 16%;
     margin-left: 13%;
 }
 
-.bloque_preguntando_margenesFoto_movil
+@media screen and (max-width: 800px)
 {
-    width: 83%;
-    margin-top: 13px;
-    margin-right: 10%;
-    margin-left: 7%;
-}
-
-/* Medias Foto margues*/
-@media screen and (max-width: 991px)
-{
-    div#bloque_preguntando_margenesFoto_escritorio
+    .bloque_preguntando_margenesFoto
     {
-        display: none;
+        width: 100%;
+        margin: 27px 0 0 0;
     }
 }
-
-@media screen and (min-width: 990px)
-{
-    div#bloque_preguntando_margenesFoto_movil
-    {
-        display: none;
-    }
-}
-
 
 /* Estilos modal para crear uusario */
 .modal_textp
 {
+    font-size: 15px;
+
     text-align: center;
-    font-size: 18px;
+}
+
+@media screen and (max-width: 500px)
+{
+    .modal_textp
+    {
+        font-size: 12px;
+
+        text-align: center;
+    }
 }
 
 .modal_nivel_tipo
@@ -330,7 +359,7 @@ div#div_file:hover
 div#div_fileDos:hover
 {
     color: white;
-    background-color:#ab5454;
+    background-color: #ab5454;
 }
 
 input#foto_newUser
@@ -350,13 +379,16 @@ input#foto_newUser
 p#text_foto
 {
     text-align: center;
+
     color: white;
 }
 
 p#text_foto_chica
 {
-    text-align: center;
     padding: 10px;
+
+    text-align: center;
+
     color: white;
 }
 
@@ -380,16 +412,16 @@ div#div_fileDos
 
     width: 111px;
     height: 37px;
-    /*margin-left: 10px;*/
-    /*margin-right: 41.5%;*/
-    background-color: #c35c5c;;
 
     -webkit-border-radius: 5px;
        -moz-border-radius: 5px;
-    -webkit-box-shadow: 0 3px 0 #c35c5c;;   
+    /*margin-left: 10px;*/
+    /*margin-right: 41.5%;*/
+    background-color: #c35c5c;
+    -webkit-box-shadow: 0 3px 0 #c35c5c;
 
          -o-border-radius: 5px;
-        -ms-border-radius: 5px;
+        -ms-border-radius: 5px;;;
 }
 
 /* Medias de los botónes del final */
@@ -409,4 +441,3 @@ div#div_fileDos
         display: none;
     }
 }
-*
